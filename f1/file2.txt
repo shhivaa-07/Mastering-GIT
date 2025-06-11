@@ -1,3 +1,4 @@
 this is my second file.
 adding more content to file two.
 add another marketing message section.
+add footer note.
