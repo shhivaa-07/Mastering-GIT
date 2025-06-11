@@ -4,3 +4,4 @@ one more bug detected and fixed.
 fourth bug fixed.
 fifth bug fixed.
 its is 2025 and 2026 is comming.
+pink mode bug fixed.
